@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HelloResponse>
+    <Message>Hello from the CORBA server!</Message>
+    <Timestamp>2024-10-04T10:20:30</Timestamp>
+    <Status>Success</Status>
+</HelloResponse>

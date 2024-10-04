@@ -1,0 +1,83 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore C++ header files
+*.h
+*.hpp
+
+# Ignore compiled C++ object files
+*.o
+*.obj
+
+# Ignore compiled binary files (executables, libraries)
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+
+# Ignore temporary and backup files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Ignore IDE-specific files (e.g., IntelliJ IDEA, Eclipse, VSCode)
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+.vscode/
+.vscode/*
+
+# Ignore VSCode settings for Mac
+*.code-workspace
+
+# Ignore Maven, Gradle, and build system directories
+target/
+build/
+bin/
+out/
+
+# Ignore package-specific files
+*.jar
+*.war
+*.ear
+
+# Ignore ZIP and PDF files
+*.zip
+*.pdf
+
+# Ignore OS-specific files (macOS)
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Ignore thumbnails or other OS-specific files
+Thumbs.db
+desktop.ini
+
+# Ignore images (JPEG and PNG)
+*.jpeg
+*.jpg
+*.png
+
+# Ignore other unnecessary files
+*.log
+*.cache
+*.env
+
+# Ignore compiled documentation
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.odt
